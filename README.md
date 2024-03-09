@@ -25,9 +25,6 @@ Here are the technologies I'm proficient in:
 --> PUBLIC TRANSPORT OPTIMIZATION 
 This project aims to optimize public transport routes and schedules to improve efficiency and reduce commuting times for passengers. It includes algorithms for route planning, scheduling, and real-time tracking.
 
---> ECOBIN - Harnessing IOT for Intelligent Waste Segregation and Recycyling 
-Ecobin is an environmental sustainability project focused on waste management. It includes features such as locating nearby waste bins , display the weekly analytics of waste collected and suggesting tips for reducing waste, and gamification to encourage eco-friendly behavior.
-
 --> Expense Tracker
 The Alumni Portal project provides a platform for alumni to connect, share experiences, and network with each other. It includes features such as user profiles, job postings, events, and messaging.
 
