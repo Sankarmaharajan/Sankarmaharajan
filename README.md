@@ -2,8 +2,8 @@
 
 Welcome to my GitHub profile! Here's a bit about me:
 
-- 👀 I’m interested in working on projects involving React Native, React, HTML, Django framework, and Internet of Things (IoT).
-- 🌱 I’m currently learning Django framework and Node.js.
+- 👀 I’m interested in working on projects involving Spring Boot, React Native, HTML, Django REST Framework, and Internet of Things (IoT).
+- 🌱 I’m currently working in Spring Boot, Django REST Framework.
 - 💞️ I’m looking to collaborate on projects related to web development, mobile app development, and IoT solutions.
 - 📫 You can reach me via email at sankarmaharajan03@gmail.com
 - 😄 Pronouns: He/Him
@@ -13,6 +13,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 Here are the technologies I'm proficient in:
 
+- Spring Boot
 - JavaScript
 - SQL
 - HTML
